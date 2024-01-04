@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Preet, a front-end developer 👨‍💻 continually striving to be better🚀</div>  
+### <div align="center">I'm Preet, a full-stack developer 👨‍💻 continually striving to be better🚀</div>  
   
 
 - 🌱 I’m currently learning backend technologies  
